@@ -1,4 +1,3 @@
-import React from "react";
 import { FaPlayCircle } from "react-icons/fa";
 
 function Drawer() {
